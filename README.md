@@ -1,16 +1,13 @@
-## Hi there 👋
+## Bem Vindos chefs ao prfil do rei demoro  
 
-<!--
-**pajews/pajews** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** Marco Tulho Salaverry Safady Guido.**
 
-Here are some ideas to get you started:
+-Estou me desenvolvendo na linguagem javascript e markdom
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Este e um repositorio para compatilhamento pessoas da plataforma Alura
+
+** Voce pode entrar em contato comigo 📧;**
+
+00001227458563@al.educacao.sp.gov.br
+
+![](![image](https://github.com/pajews/pajews/assets/172849855/ce21bc16-bab0-4c6d-97bc-b338d7613f45)
